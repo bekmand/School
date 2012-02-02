@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;Svommer2.copy&apos; to &apos;Associations&apos;&#x0D;&#x0A;- Original project: &apos;AssocieringOpgaverSvommer&apos;&#x0D;&#x0A;- Destination element: &apos;Associations&apos;&#x0D;&#x0A;- Original element: &apos;AssocieringOpgaverSvommer/Svommer2.copy&apos;" description="Copy package" destination="=Associations" element1="/&lt;Svommer2.copy" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1317105826351" version="1.0"/>
+</session>

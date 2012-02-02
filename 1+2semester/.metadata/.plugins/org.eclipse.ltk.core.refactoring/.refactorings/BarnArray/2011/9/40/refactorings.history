@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;model_BarnArray&apos; to &apos;Array01&apos;&#x0D;&#x0A;- Original project: &apos;BarnArray&apos;&#x0D;&#x0A;- Destination element: &apos;Array01&apos;&#x0D;&#x0A;- Original element: &apos;BarnArray/model_BarnArray&apos;" description="Copy package" destination="=Array01" element1="/&lt;model_BarnArray" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1317105887198" version="1.0"/>
+</session>

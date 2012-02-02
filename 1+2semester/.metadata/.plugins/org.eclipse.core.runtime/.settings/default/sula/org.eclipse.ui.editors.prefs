@@ -1,0 +1,18 @@
+#Sat Aug 08 14:13:21 EDT 2009
+AbstractTextEditor.Color.Background.SystemDefault=false
+AbstractTextEditor.Color.Foreground.SystemDefault=false
+AbstractTextEditor.Color.Foreground=246,243,232
+AbstractTextEditor.Color.SelectionBackground=158,169,169
+currentLineColor=36,36,36
+secondaryIPColor=26,89,26
+AbstractTextEditor.Color.SelectionForeground.SystemDefault=false
+writeOccurrenceIndicationColor=148,133,103
+AbstractTextEditor.Color.Background=22,22,22
+AbstractTextEditor.Color.SelectionBackground.SystemDefault=false
+filteredSearchResultIndicationColor=63,63,106
+currentIPColor=26,89,26
+eclipse.preferences.version=1
+searchResultIndicationColor=70,68,103
+AbstractTextEditor.Color.SelectionForeground=0,0,0
+occurrenceIndicationColor=97,97,97
+overviewRuler_migration=migrated_3.1

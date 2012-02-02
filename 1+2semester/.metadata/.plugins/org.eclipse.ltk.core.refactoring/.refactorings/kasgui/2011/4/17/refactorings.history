@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 5 elements to &apos;kas/src/gui&apos;&#x0A;- Original project: &apos;kasgui&apos;&#x0A;- Destination element: &apos;kas/src/gui&apos;&#x0A;- Original elements:&#x0A;     gui.HotelFrame.java&#x0A;     gui.MainFrame.java&#x0A;     gui.KonferenceFrame.java&#x0A;     gui.InformationFrame.java&#x0A;     gui.DeltagerFrame.java" description="Copy compilation units" destination="=kas/src&lt;gui" element1="/&lt;gui{HotelFrame.java" element2="/&lt;gui{MainFrame.java" element3="/&lt;gui{KonferenceFrame.java" element4="/&lt;gui{InformationFrame.java" element5="/&lt;gui{DeltagerFrame.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1303863001836" units="5" version="1.0"/>
+</session>

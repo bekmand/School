@@ -1,0 +1,16 @@
+package model;
+
+public class Aktiviteter {
+	private String navn;
+	private String location;
+	private double dato;
+	private double pris;
+	
+	public Aktiviteter(String navn, String location, double dato, double pris){
+		this.navn = navn;
+		this.location = location;
+		this.dato = dato;
+		this.pris = pris;
+	}
+
+}

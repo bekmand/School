@@ -1,0 +1,20 @@
+package model;
+import java.util.ArrayList;
+
+public class Tilmedlinger {
+	private double ankomstDato;
+	private double afrejseDato;
+	private ArrayList<Ledsager> ledsagere = new ArrayList();
+	private boolean fordragsHolder;
+	
+	public Tilmedlinger(double ankomstDato, double afrejseDato, boolean fordragsholder){
+		this.afrejseDato = afrejseDato;
+		this.ankomstDato = ankomstDato;
+		this.fordragsHolder = false;
+	}
+	
+	public void addLedsager(Ledsager ledsager){
+		ledsagere.add(ledsager);
+	}
+
+}

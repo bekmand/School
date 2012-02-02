@@ -1,0 +1,6 @@
+#Sat Dec 03 16:28:17 CET 2011
+eclipse.preferences.version=1
+repositories/d0434c5cc8150011134edc672401e0c3=d0434c5cc8150011134edc672401e0c3;https\://pl5.projectlocker.com/casperb/carletti/svn;https\://pl5.projectlocker.com/casperb/carletti/svn;branches;tags;trunk;true;6eb4e8ac-93d7-4667-9726-3a7c5be5b257;https\://pl5.projectlocker.com/casperb/carletti/svn;;false;<https\://pl5.projectlocker.com\:443> Subversion Repository;;0
+repositories/e0e1bd4b358100101894ca97cae94345=e0e1bd4b358100101894ca97cae94345;https\://pl3.projectlocker.com/Manipulos/7c/svn;https\://pl3.projectlocker.com/Manipulos/7c/svn;branches;tags;trunk;true;c0941030-1aa2-4d52-b8ab-eecec1b719bd;https\://pl3.projectlocker.com/Manipulos/7c/svn;;false;<https\://pl3.projectlocker.com\:443> Subversion Repository;;0
+externalMigrateFromAuthorizationDatabase/isMigrated=true
+migrateFromAuthorizationDatabase/isMigrated=true

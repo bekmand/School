@@ -1,0 +1,14 @@
+#Sat Aug 08 01:16:44 EDT 2009
+AbstractTextEditor.Color.Background.SystemDefault=false
+AbstractTextEditor.Color.Foreground.SystemDefault=false
+AbstractTextEditor.Color.Foreground=246,243,232
+currentLineColor=101,101,101
+secondaryIPColor=26,89,26
+writeOccurrenceIndicationColor=148,133,103
+AbstractTextEditor.Color.Background=36,36,36
+currentIPColor=26,89,26
+filteredSearchResultIndicationColor=63,63,106
+eclipse.preferences.version=1
+searchResultIndicationColor=70,68,103
+occurrenceIndicationColor=97,97,97
+overviewRuler_migration=migrated_3.1

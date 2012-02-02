@@ -1,0 +1,21 @@
+package sk_9_10_DesignHeadsFirst;
+
+import java.util.ArrayList;
+
+public class Bank implements RenteInterface{
+	
+	private ArrayList<Kunde> kunde = new ArrayList<Kunde>();
+	private ArrayList<Konto> konto = new ArrayList<Konto>();
+	
+	private RenteInterface renteInterface;
+	
+	
+	public bank(){
+		super();
+	}
+	
+	public void beregnRente(){
+		
+	}
+
+}

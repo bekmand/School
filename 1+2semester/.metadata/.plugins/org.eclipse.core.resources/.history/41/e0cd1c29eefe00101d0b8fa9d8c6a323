@@ -1,0 +1,32 @@
+package adapter;
+
+public class SpiritusAdapter extends Vare{
+	private Spiritus adapterSpiritus;
+	
+	
+	public SpiritusAdapter(int pris, String navn) {
+		super(pris, navn);
+	}
+
+	public int getPris(){
+		return adapterSpiritus.getPrisen();
+	}
+	
+	public void setPris(int pris){
+		adapterSpiritus.setPrisen(pris);
+	}
+	
+	public String getNavn(){
+		return adapterSpiritus.getBetegnelse();
+	}
+	
+	public void setNavn(String navn){
+		adapterSpiritus.setBetegnelse(navn);
+	}
+	
+	public double beregnMoms(){
+		return adapterSpiritus.hentMoms();
+	}
+	
+	
+}

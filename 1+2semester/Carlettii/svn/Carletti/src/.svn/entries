@@ -1,0 +1,40 @@
+10
+
+dir
+88
+https://pl5.projectlocker.com/casperb/carletti/svn/Carletti/src
+https://pl5.projectlocker.com/casperb/carletti/svn
+
+
+
+2011-12-03T12:37:44.452574Z
+88
+casper.bekmand@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6eb4e8ac-93d7-4667-9726-3a7c5be5b257
+
+dao
+dir
+
+gui
+dir
+
+model
+dir
+
+service
+dir
+

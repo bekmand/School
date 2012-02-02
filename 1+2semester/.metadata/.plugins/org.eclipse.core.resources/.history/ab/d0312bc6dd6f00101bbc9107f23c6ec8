@@ -1,0 +1,21 @@
+package model;
+import java.util.ArrayList;
+
+public class Aktiviteter {
+	private String navn;
+	private String location;
+	private double dato;
+	private double pris;
+	private ArrayList<Ledsager> ledsagere = new ArrayList();
+	
+	public Aktiviteter(String navn, String location, double dato, double pris){
+		this.navn = navn;
+		this.location = location;
+		this.dato = dato;
+		this.pris = pris;
+	}
+
+	public double getPris(){
+		return pris;
+	}
+}

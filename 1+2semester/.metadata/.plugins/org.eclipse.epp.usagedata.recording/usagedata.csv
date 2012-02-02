@@ -1,0 +1,51 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.workbench.texteditor",1328169487744
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1328169487795
+started,bundle,org.eclipse.update.core,3.2.500.v20110330,"org.eclipse.update.core",1328169487923
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1328169487971
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.200.v201103170332,"org.eclipse.wst.common.project.facet.core",1328169488070
+started,bundle,org.eclipse.wst.web,1.1.500.v201104251400,"org.eclipse.wst.web",1328169488096
+started,bundle,com.google.gdt.eclipse.designer,2.4.2.r37x201110181239,"com.google.gdt.eclipse.designer",1328169488188
+started,bundle,com.google.gdt.eclipse.designer.GXT,2.4.2.r37x201110181249,"com.google.gdt.eclipse.designer.GXT",1328169488249
+started,bundle,com.google.gdt.eclipse.designer.SmartGWT,2.4.2.r37x201110181249,"com.google.gdt.eclipse.designer.SmartGWT",1328169488315
+started,bundle,com.google.gdt.eclipse.designer.UiBinder,2.4.2.r37x201110181239,"com.google.gdt.eclipse.designer.UiBinder",1328169488317
+started,bundle,com.google.gdt.eclipse.designer.hosted,2.4.2.r37x201110181233,"com.google.gdt.eclipse.designer.hosted",1328169488352
+started,bundle,org.eclipse.emf.common,2.7.0.v20110912-0920,"org.eclipse.emf.common",1328169488495
+started,bundle,org.eclipse.emf.ecore,2.7.0.v20110912-0920,"org.eclipse.emf.ecore",1328169488642
+started,bundle,org.eclipse.wb.core,1.2.0.r37x201109270310,"org.eclipse.wb.core",1328169488700
+started,bundle,org.eclipse.wb.core.lib,1.2.0.r37x201109270310,"org.eclipse.wb.core.lib",1328169488821
+started,bundle,org.eclipse.wb.discovery.core,1.2.0.r37x201109270333,"org.eclipse.wb.discovery.core",1328169488823
+started,bundle,org.eclipse.egit.core,1.1.0.201109151100-r,"org.eclipse.egit.core",1328169488905
+started,bundle,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui",1328169489035
+started,bundle,org.eclipse.jgit,1.1.0.201109151100-r,"org.eclipse.jgit",1328169489038
+started,bundle,org.eclipse.mylyn.commons.ui,3.6.1.v20110720-0100,"org.eclipse.mylyn.commons.ui",1328169489083
+started,bundle,org.eclipse.mylyn.context.core,3.6.1.v20110720-0100,"org.eclipse.mylyn.context.core",1328169489190
+started,bundle,org.eclipse.mylyn.github.ui,1.1.0.201109151100-r,"org.eclipse.mylyn.github.ui",1328169489318
+started,bundle,org.eclipse.mylyn.tasks.ui,3.6.2.v20110826-0100,"org.eclipse.mylyn.tasks.ui",1328169489341
+started,bundle,org.eclipse.mylyn.bugzilla.core,3.6.2.v20110903-0100,"org.eclipse.mylyn.bugzilla.core",1328169489368
+started,bundle,org.eclipse.team.svn.mylyn,0.7.9.I20110318-1700,"org.eclipse.team.svn.mylyn",1328169489417
+os,sysinfo,,,"win32",1328169489427
+arch,sysinfo,,,"x86_64",1328169489427
+ws,sysinfo,,,"win32",1328169489427
+locale,sysinfo,,,"en_US",1328169489427
+processors,sysinfo,,,"1",1328169489427
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1328169489427
+java.runtime.version,sysinfo,,,"1.7.0-b147",1328169489427
+java.specification.name,sysinfo,,,"Java Platform API Specification",1328169489427
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1328169489427
+java.specification.version,sysinfo,,,"1.7",1328169489427
+java.vendor,sysinfo,,,"Oracle Corporation",1328169489427
+java.version,sysinfo,,,"1.7.0",1328169489427
+java.vm.info,sysinfo,,,"mixed mode",1328169489427
+java.vm.name,sysinfo,,,"Java HotSpot(TM) 64-Bit Server VM",1328169489427
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1328169489427
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1328169489427
+java.vm.specification.version,sysinfo,,,"1.7",1328169489427
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1328169489427
+java.vm.version,sysinfo,,,"21.0-b17",1328169489427
+started,bundle,org.eclipse.epp.usagedata.ui,1.3.1.R201106061540,"org.eclipse.epp.usagedata.ui",1328169492169
+started,bundle,org.eclipse.wb.discovery.ui,1.2.0.r37x201109270333,"org.eclipse.wb.discovery.ui",1328169494972
+started,bundle,org.eclipse.mylyn.team.ui,3.6.1.v20110825-0100,"org.eclipse.mylyn.team.ui",1328169495065
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1328169502135
+started,bundle,org.eclipse.ui.browser,3.3.100.v20110426,"org.eclipse.ui.browser",1328169502464
+started,bundle,org.eclipse.team.cvs.core,3.3.400.I20110510-0800,"org.eclipse.team.cvs.core",1328169505855

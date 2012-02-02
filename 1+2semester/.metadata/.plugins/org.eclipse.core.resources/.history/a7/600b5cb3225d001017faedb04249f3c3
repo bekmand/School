@@ -1,0 +1,35 @@
+package bil;
+import java.util.ArrayList;
+
+public class Udlejning {
+	private int nr;
+	private int antalDage;
+	private String dato;
+	private ArrayList<Bil> bil;
+	
+	public Udlejning(int nr, int antalDage, String dato){
+		bil = new ArrayList<Bil>;
+		this.nr = nr;
+		this.antalDage = antalDage;
+		this.dato = dato;
+	}
+	/*
+	public int getPris(){
+		return 
+	}
+	*/
+	public void setDage(int dage){
+		this.antalDage = dage;
+	}
+	public int getDage(){
+		return antalDage;
+	}
+	public void addUdlejning(Bil bil){
+		Bil.add(bil);
+	}
+	public void removeUdlejning(Bil bil){
+		bil.remove(bil);
+	}
+	
+
+}

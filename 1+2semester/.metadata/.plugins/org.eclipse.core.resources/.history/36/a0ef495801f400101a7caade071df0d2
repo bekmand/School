@@ -1,0 +1,9 @@
+package sk_9_10_DesignHeadsFirst;
+
+import java.util.ArrayList;
+
+public class Bank {
+	
+	public ArrayList<Kunde> kunde = new ArrayList<Kunde>();
+
+}

@@ -1,0 +1,14 @@
+#Sat Aug 08 01:13:03 EDT 2009
+AbstractTextEditor.Color.Background.SystemDefault=false
+AbstractTextEditor.Color.Foreground.SystemDefault=false
+AbstractTextEditor.Color.Foreground=207,191,173
+AbstractTextEditor.Color.SelectionBackground=139,139,255
+currentLineColor=45,45,68
+AbstractTextEditor.Color.SelectionForeground.SystemDefault=false
+lineNumberColor=43,145,175
+AbstractTextEditor.Color.Background=31,31,39
+AbstractTextEditor.Color.SelectionBackground.SystemDefault=false
+eclipse.preferences.version=1
+AbstractTextEditor.Color.SelectionForeground=64,64,64
+deletionIndicationColor=255,0,0
+overviewRuler_migration=migrated_3.1

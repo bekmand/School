@@ -1,0 +1,20 @@
+#Thu Nov 03 09:36:35 CET 2011
+syntaxColouring.operator.colour=232,226,183
+syntaxColouring.keyword.colour=147,199,99
+syntaxColouring.singleLineComment.colour=125,140,147
+eclipse.preferences.version=1
+syntaxColouring.default.colour=224,226,228
+syntaxColouring.xml.tagDelimiter=224,226,228
+syntaxColouring.xml.equals=224,226,228
+syntaxColouring.xml.cdata=224,226,228
+syntaxColouring.xml.attributeValue=236,118,0
+syntaxColouring.xml.attributeName=147,199,99
+syntaxColouring.xml.processingInstruction=224,226,228
+syntaxColouring.bracket.colour=232,226,183
+syntaxColouring.multiLineString.colour=236,118,0
+syntaxColouring.string.colour=236,118,0
+syntaxColouring.return.colour=147,199,99
+syntaxColouring.multiLineComment.colour=125,140,147
+syntaxColouring.xml.comment=125,140,147
+syntaxColouring.scaladoc.colour=125,140,147
+syntaxColouring.xml.tagName=224,226,228

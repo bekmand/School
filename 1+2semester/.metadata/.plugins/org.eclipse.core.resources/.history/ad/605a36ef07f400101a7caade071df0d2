@@ -1,0 +1,22 @@
+package sk_9_10_DesignHeadsFirst;
+
+public class Konto{
+	private int saldo;
+	private int kontoNr;
+	private RenteInterface renteinterface; 
+	
+	public Konto(int saldo, int kontoNr){
+		this.saldo = saldo;
+		this.kontoNr = kontoNr;
+	}
+	
+	public int beregnRente(){
+		return renteinterface.beregnRente();
+	}
+	
+	public void setRente(RenteInterface renteinterface){
+		this.renteinterface = renteinterface;
+	}
+	
+
+}

@@ -1,0 +1,18 @@
+package model;
+
+public class Ledsager {
+	private String navn;
+	private String partnerNavn;
+	private int partnerNr;
+	
+	public Ledsager(String navn, String partnerNavn, int partnerNr){
+		this.navn = navn;
+		this.partnerNavn = partnerNavn;
+		this.partnerNr = partnerNr;
+	}
+	
+	public double sum(){
+		
+	}
+
+}

@@ -1,0 +1,12 @@
+package sk_9_10_DesignHeadsFirst;
+
+public class FastRente implements RenteInterface{
+
+	@Override
+	public  beregnRente() {
+		return 10;
+	}
+	
+	
+
+}

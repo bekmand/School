@@ -1,0 +1,23 @@
+package Svommer1;
+import java.util.ArrayList;
+
+public class AnvendSvømmer {
+
+	
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		//ArrayList<Svømmer> svømmer = new ArrayList<Svømmer>();
+		ArrayList<Double> tider = new ArrayList<Double>();
+		
+		//svømmer = new ArrayList<Svømmer>();
+		Svømmer p1 = new Svømmer("Jan",1990,tider,"HSK", "A");
+		Svømmer p2 = new Svømmer("Bo",1989,tider,"HSK", "A");
+		Svømmer p3 = new Svømmer("Jesper",1992,tider,"HSK", "B");
+		
+		System.out.println(p1);
+		
+	}
+
+}
